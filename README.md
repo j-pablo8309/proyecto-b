@@ -8,3 +8,12 @@ texto
 
 ### encabezado nivel 3 
 texto normal
+
+#comentario en negrilla 
+**negrilla**
+
+#comentario en cursiva
+_cursiva_
+
+#ambos
+_*se pueden convinar*_
