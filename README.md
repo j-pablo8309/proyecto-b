@@ -17,3 +17,29 @@ _cursiva_
 
 #ambos
 _*se pueden convinar*_
+
+* Tierra
+* Luna
+* Jupiter
+
+#lista de chequeo 
+[x] alergia al arequipe 
+[x] pago 
+[] tos 
+
+Simon Bolivar dijo:
+>en el momento en que se casen los partidos
+< y se consolide la union, yo bajare tranquilo
+
+##tabla de verdad del and 
+A | B | A and B
+--|---|---------
+v | v |    v
+v | F |    F
+F | V |    F
+F | F |    F
+
+#Ejemplo de codigo en python
+```python
+print("Hola, este es un ejemplo de codigo")
+```
