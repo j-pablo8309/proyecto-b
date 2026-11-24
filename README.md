@@ -22,10 +22,11 @@ _*se pueden convinar*_
 * Luna
 * Jupiter
 
-#lista de chequeo 
+#lista de chequeo:
+
 [x] alergia al arequipe 
 [x] pago 
-[] tos 
+[x] tos 
 
 Simon Bolivar dijo:
 >en el momento en que se casen los partidos
