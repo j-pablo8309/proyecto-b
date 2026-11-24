@@ -44,3 +44,11 @@ F | F |    F
 ```python
 print("Hola, este es un ejemplo de codigo")
 ```
+
+# Ejemplo de código en Powershell
+```powershell
+Remove-Item-recurse directorio-prueba
+```
+
+# Ejemplo de emojis 
+:+1: :octocat: :camel: :grin: :metal:
