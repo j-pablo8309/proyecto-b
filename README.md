@@ -15,14 +15,14 @@ texto normal
 #comentario en cursiva
 _cursiva_
 
-#ambos
+# ambos
 _*se pueden convinar*_
 
 * Tierra
 * Luna
 * Jupiter
 
-#lista de chequeo:
+# lista de chequeo:
 
 [x] alergia al arequipe 
 [x] pago 
@@ -40,7 +40,7 @@ v | F |    F
 F | V |    F
 F | F |    F
 
-#Ejemplo de codigo en python
+# Ejemplo de codigo en python
 ```python
 print("Hola, este es un ejemplo de codigo")
 ```
